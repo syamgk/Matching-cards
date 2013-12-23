@@ -1,7 +1,6 @@
 import random
 from time import sleep
 from subprocess import check_output
-import thread
 import puzzle
 try:
 	import pygame
