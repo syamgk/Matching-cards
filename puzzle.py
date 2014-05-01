@@ -5,7 +5,7 @@ try:
 	import pygame
 	from pygame.locals import *
 except ImportError:
-	print "Needs pygame library:\nYou can install it by typing:\nsudo apt-get instal python-pygame"
+	print "Needs pygame library:\nYou can install it by typing:\nsudo apt-get install python-pygame"
 	exit(0)
 #----------------------------------------------------------------------------------------------------------------------
 class Game:
